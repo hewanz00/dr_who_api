@@ -1,7 +1,8 @@
 import random
 import json
 
-# Define ID groups
+# defines random location coords based on planet
+# Define location_ID groups
 london_ids = [2, 23, 26, 6,7,8,12,14,15,18,19,20,24,27,28,30,13]  # all ldn IDs
 mars_ids = [4]
 other_ids = [10,11,25,29]  # US, Italy, France, Australia
@@ -44,9 +45,10 @@ for rid in remaining_ids:
     coords_list.append({"ID": rid, "x": x, "y": y})
 
 # Save to JSON
-with open("planet_coordinates.json", "w", encoding="utf-8") as f:
+with open("location_coords.json", "w", encoding="utf-8") as f:
     json.dump(coords_list, f, ensure_ascii=False, indent=4)
 
-print("Coordinates saved to planet_coordinates.json in list")
+print("Coordinates saved to location_coords.json in list")
+
 
 
