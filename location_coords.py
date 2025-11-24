@@ -40,8 +40,8 @@ for gid in gallifrey_ids:
 
 # 5. Other planets random
 for rid in remaining_ids:
-    x = round(random.uniform(-200,200),2)
-    y = round(random.uniform(-200,200),2)
+    x = round(random.uniform(-600,500),2)
+    y = round(random.uniform(-600,500),2)
     coords_list.append({"ID": rid, "x": x, "y": y})
 
 # Save to JSON

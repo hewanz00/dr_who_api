@@ -24,7 +24,7 @@ def main():
     with open("all_locations.json", "w", encoding="utf-8") as f:
         json.dump(species_list, f, ensure_ascii=False, indent=4)
     
-    print(f"Saved {len(species_list)} species to all_locations.json")
+    print(f"Saved {len(species_list)} species list to all_locations.json")
 
 if __name__ == "__main__":
     main()

@@ -59,7 +59,7 @@ for rid in remaining_ids:
     })
 
 # Save as JSON
-with open("planet_coordinates.json", "w", encoding="utf-8") as f:
+with open("planet_coords.json", "w", encoding="utf-8") as f:
     json.dump(coords_list, f, ensure_ascii=False, indent=4)
 
 print("Coordinates planet coords saved")

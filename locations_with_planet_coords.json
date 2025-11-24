@@ -1,0 +1,314 @@
+[
+    {
+        "ID": 1,
+        "Planet_ID": 1,
+        "Planet_Name": "Gallifrey",
+        "Name": "Gallifrey",
+        "x": 41.7,
+        "y": -70.58
+    },
+    {
+        "ID": 2,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "Earth",
+        "x": 46.5,
+        "y": 47.88
+    },
+    {
+        "ID": 3,
+        "Planet_ID": 3,
+        "Planet_Name": "Sontar",
+        "Name": "Sontar",
+        "x": -323.9,
+        "y": -384.0
+    },
+    {
+        "ID": 4,
+        "Planet_ID": 4,
+        "Planet_Name": "Mars",
+        "Name": "Mars",
+        "x": 5.12,
+        "y": 85.89
+    },
+    {
+        "ID": 5,
+        "Planet_ID": 5,
+        "Planet_Name": "Skaro",
+        "Name": "Skaro",
+        "x": -448.58,
+        "y": -161.94
+    },
+    {
+        "ID": 6,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "Tower of London",
+        "x": 48.59,
+        "y": 49.2
+    },
+    {
+        "ID": 7,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "London",
+        "x": 47.72,
+        "y": 46.79
+    },
+    {
+        "ID": 8,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "London Eye",
+        "x": 47.73,
+        "y": 47.46
+    },
+    {
+        "ID": 9,
+        "Planet_ID": 9,
+        "Planet_Name": "Boeshane Peninsula",
+        "Name": "Boeshane Peninsula",
+        "x": 368.64,
+        "y": -326.79
+    },
+    {
+        "ID": 10,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "Last Chance Saloon",
+        "x": 52.67,
+        "y": 54.27
+    },
+    {
+        "ID": 11,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "Pompeii",
+        "x": 50.73,
+        "y": 52.09
+    },
+    {
+        "ID": 12,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "10 Downing Street",
+        "x": 48.61,
+        "y": 45.38
+    },
+    {
+        "ID": 13,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "St Luke's University",
+        "x": 46.51,
+        "y": 46.76
+    },
+    {
+        "ID": 14,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "Amy Pond's House",
+        "x": 47.42,
+        "y": 46.72
+    },
+    {
+        "ID": 15,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "Black Archive",
+        "x": 48.2,
+        "y": 47.95
+    },
+    {
+        "ID": 16,
+        "Planet_ID": 16,
+        "Planet_Name": "Zaggit Zagoo bar",
+        "Name": "Zaggit Zagoo bar",
+        "x": -510.72,
+        "y": -333.35
+    },
+    {
+        "ID": 17,
+        "Planet_ID": 17,
+        "Planet_Name": "The Doctor's tomb",
+        "Name": "The Doctor's tomb",
+        "x": -546.7,
+        "y": 135.55
+    },
+    {
+        "ID": 18,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "The Shard",
+        "x": 47.63,
+        "y": 49.37
+    },
+    {
+        "ID": 19,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "National Gallery",
+        "x": 47.1,
+        "y": 48.67
+    },
+    {
+        "ID": 20,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "National Museum",
+        "x": 45.2,
+        "y": 47.35
+    },
+    {
+        "ID": 21,
+        "Planet_ID": 1,
+        "Planet_Name": "Gallifrey",
+        "Name": "Barn (The Day of the Doctor)",
+        "x": 30.91,
+        "y": -68.01
+    },
+    {
+        "ID": 22,
+        "Planet_ID": 22,
+        "Planet_Name": "Bank of Karabraxos",
+        "Name": "Bank of Karabraxos",
+        "x": 479.4,
+        "y": -588.94
+    },
+    {
+        "ID": 23,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "The Doctor's cottage",
+        "x": 47.75,
+        "y": 49.44
+    },
+    {
+        "ID": 24,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "Amy Pond and Rory Williams' house (The God Complex)",
+        "x": 47.99,
+        "y": 47.94
+    },
+    {
+        "ID": 25,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "Musée d'Orsay",
+        "x": 53.16,
+        "y": 52.11
+    },
+    {
+        "ID": 26,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "St John's Monastery",
+        "x": 46.11,
+        "y": 45.4
+    },
+    {
+        "ID": 27,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "St Paul's Cathedral",
+        "x": 47.93,
+        "y": 48.53
+    },
+    {
+        "ID": 28,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "Stonehenge",
+        "x": 47.69,
+        "y": 47.65
+    },
+    {
+        "ID": 29,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "Sydney Opera House",
+        "x": 50.27,
+        "y": 53.64
+    },
+    {
+        "ID": 30,
+        "Planet_ID": 2,
+        "Planet_Name": "Earth",
+        "Name": "Lazarus Laboratories",
+        "x": 49.32,
+        "y": 48.6
+    },
+    {
+        "ID": 31,
+        "Planet_ID": 31,
+        "Planet_Name": "Messaline",
+        "Name": "Messaline",
+        "x": 468.85,
+        "y": -311.13
+    },
+    {
+        "ID": 32,
+        "Planet_ID": 32,
+        "Planet_Name": "Sto",
+        "Name": "Sto",
+        "x": 56.33,
+        "y": 416.92
+    },
+    {
+        "ID": 33,
+        "Planet_ID": 33,
+        "Planet_Name": "Crespallion",
+        "Name": "Crespallion",
+        "x": 463.82,
+        "y": -368.6
+    },
+    {
+        "ID": 34,
+        "Planet_ID": 34,
+        "Planet_Name": "Gamma Forests",
+        "Name": "Gamma Forests",
+        "x": -564.11,
+        "y": -120.15
+    },
+    {
+        "ID": 35,
+        "Planet_ID": 35,
+        "Planet_Name": "Alzarius",
+        "Name": "Alzarius",
+        "x": 276.61,
+        "y": 264.2
+    },
+    {
+        "ID": 36,
+        "Planet_ID": 36,
+        "Planet_Name": "Trion",
+        "Name": "Trion",
+        "x": -286.9,
+        "y": -209.37
+    },
+    {
+        "ID": 37,
+        "Planet_ID": 37,
+        "Planet_Name": "Traken",
+        "Name": "Traken",
+        "x": -136.8,
+        "y": -327.06
+    },
+    {
+        "ID": 38,
+        "Planet_ID": 38,
+        "Planet_Name": "Zygor",
+        "Name": "Zygor",
+        "x": -405.56,
+        "y": 352.71
+    },
+    {
+        "ID": 39,
+        "Planet_ID": 39,
+        "Planet_Name": "Vortis",
+        "Name": "Vortis",
+        "x": -111.09,
+        "y": 223.22
+    }
+]
